@@ -1,2 +1,2 @@
 print(2+2)
-print("text")
+print("drugi tekst")
